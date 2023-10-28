@@ -10,13 +10,13 @@ This repository was created while studying the DeepLearning.AI's ChatGPT Prompt 
 
 Examples on how to use ChatGPT API's features, such as:
 
-* Guidelines;
-* Iterative;
-* Summarizing;
-* Inferring;
-* Transforming;
-* Expanding;
-* Chatbot;
+* [Guidelines](./notebooks/l2-guidelines.ipynb);
+* [Iterative](./notebooks/l3-iterative-prompt-development.ipynb);
+* [Summarizing](./notebooks/l4-summarizing.ipynb);
+* [Inferring](./notebooks/l5-inferring.ipynb);
+* [Transforming](./notebooks/l6-transforming.ipynb);
+* [Expanding](./notebooks/l7-expanding.ipynb);
+* [Chatbot](./notebooks/l8-chatbot.ipynb);
 
 ## 🛠 Technologies
 
