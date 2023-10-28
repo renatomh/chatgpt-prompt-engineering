@@ -28,9 +28,19 @@ During the development of this project, the following technologies were used:
 
 ## 💻 Configuration
 
-### First, you must [install Jupyter](https://jupyter.org/install) on your computer.
+First, you must [install Jupyter](https://jupyter.org/install) on your computer.
 
-### You'll also need an [OpenAI API key for ChatGPT](https://www.maisieai.com/help/how-to-get-an-openai-api-key-for-chatgpt).
+You'll also need an [OpenAI API key for ChatGPT](https://www.maisieai.com/help/how-to-get-an-openai-api-key-for-chatgpt).
+
+Install the required packages/libs to your Jupyter environment:
+
+```bash
+(env) $ pip install -r requirements.txt
+```
+
+## 🌐 Setting up config files
+
+Create a *.env* file on the root directory, with all needed variables, credentials and API keys, according to the sample provided (*[example.env](./example.env)*).
 
 ### Documentation:
 * 

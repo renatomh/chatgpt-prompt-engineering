@@ -1,0 +1,4 @@
+openai==0.28.1
+python-dotenv==0.21.1
+redlines==0.4.2
+panel==0.14.4
